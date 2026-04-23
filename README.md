@@ -448,7 +448,7 @@ Para propor melhorias, basta abrir uma **[issue](https://github.com/react-brasil
 | Storia Imóveis | https://www.storiaimoveis.com.br/ | Redux, Saga                                                                                                                          | [OLX Brasil](http://www.olx.com.br/)                 |
 | Rung           | https://www.rung.com.br/          | Redux, Ramda, Flow, React Native, Expo, Gatsby, Material-UI                                                                          | [NG Informática](https://www.ngi.com.br/)            |
 | Keepfy         | https://keepfy.com                | GraphQL, Apollo, Docz, TypeScript, React Native, Cypress, Flipper-UI, Styled Components                                              | [NG Informática](https://www.ngi.com.br/)            |
-
+| WP AutoFlow         | https://wpautoflow.com                | React, TypeScript, React Router                                             | [67Digital](https://67digital.com)            |
 ## Licença
 
 [MIT](/LICENSE)
